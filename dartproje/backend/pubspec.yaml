@@ -1,0 +1,12 @@
+name: backend_dart
+description: A simple Dart backend for Flutter app.
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  shelf: ^1.4.0
+  shelf_router: ^1.1.4
+  shelf_cors_headers: ^0.1.5
+  mongo_dart: ^0.10.0
+  dart_jsonwebtoken: ^3.2.0
+  dotenv: ^4.2.0
